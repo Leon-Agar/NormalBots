@@ -20,10 +20,10 @@ New version - v2.0.0
 ## Method VPS
 -------
 1. I use Debian GNU/Linux 9 (stretch) from Cloud Google.
-2. Run `sudo apt install git` command then will appear `N/Y` choose `Y`
+2. Run `sudo apt install git` command - then will appear `N/Y` choose `Y`
 3. Run `git clone https://github.com/Leon-Agar/NormalBots` command
 4. Run `cd NormalBots` command
-5. Run `sh install.sh` command
+5. Run `sh install.sh` command - wait for everything to be installed
 6. Run `node server` command and leave the process running
 7. Go to Agario and place your VPS IP in the `ws` panel and click on the" Connect "button (the ip of vps must have 8083 at the end. example; `ws://12.264.84.94:8083`
 8. On the top right of your browser you will see a shield with a red mark, click there and then click on "Load unsafe scripts"
