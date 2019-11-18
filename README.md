@@ -27,7 +27,7 @@ New version - v2.0.0
 6. Run `node server` command and leave the process running
 7. Go to Agario and place your VPS IP in the `ws` panel and click on the" Connect "button (the ip of vps must have 8083 at the end. example; `ws://12.264.84.94:8083`
 8. On the top right of your browser you will see a shield with a red mark, click there and then click on "Load unsafe scripts"
-9. After loading agar.io, click on the "Connect" button again, the status should read "Connected" in green and wait for 'captcha tokens' to load as I said before.
+9. After loading agar.io, click on the "Connect" button again, the status should read "Connected" in green.
 10. Create a party and make sure you are logged into your agar.io account, then click on the "Start Bots" button, if the VPS IP does not have captcha, the button should turn red and say "Stop Bots" if you get an alert that says the IP has captcha, you must change the IP of VPS in some way to one without captcha
 12. To stop bots click the "Stop Bots" button and wait 30 seconds for process to close you will see a countdown there
 13. To run the bots again just run `node server`, make sure you "Load unsafe scripts", click "Connect" button and then click "Start Bots" button if you did everything right bots should start again
