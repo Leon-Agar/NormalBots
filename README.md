@@ -20,7 +20,7 @@ New version - v2.0.0
 ## Method VPS
 -------
 1. I use Debian GNU/Linux 9 (stretch) from Cloud Google.
-2. Run `sudo apt install git` command then of `N/Y` choose `Y`
+2. Run `sudo apt install git` command then will appear `N/Y` choose `Y`
 3. Run `git clone https://github.com/Leon-Agar/NormalBots` command
 4. Run `cd NormalBots` command
 5. Run `sh install.sh` command
